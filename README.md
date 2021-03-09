@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Engineering.
 - 💼 &nbsp; Front-end Web Developer Intern.
-- 🌱 &nbsp; Machine Learning and Deep Learning algorithms .
+- 🌱 &nbsp; Machine Learning and Deep Learning algorithms.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
