@@ -5,8 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Deep Learning projects.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Engineering.
-- 💼 &nbsp; Front-end Web Developer Intern.
+- 💼 &nbsp; Software Test Engineer @VodafoneTR
 - 🌱 &nbsp; Machine Learning and Deep Learning algorithms.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
