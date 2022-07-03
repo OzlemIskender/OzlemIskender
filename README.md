@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Deep Learning projects.
+- 🔭 &nbsp; I’m currently learning RestAPI projects.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Engineering.
-- 💼 &nbsp; Test Automation Engineer @OrionInnovation
-- 🌱 &nbsp; Machine Learning and Deep Learning algorithms.
+- 💼 &nbsp; Java Developer @Vodafone
+- 🌱 &nbsp; SpringBoot, Kafka, Jenkins
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <br><br>
