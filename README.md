@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Engineering.
 - 💼 &nbsp; Java Developer @Vodafone
-- 🌱 &nbsp; Trying to deliver test automation frameworks to Android, iOS apps
+- 🌱 &nbsp; Trying to manage backend to Android, iOS apps
 in an Agile Team
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
