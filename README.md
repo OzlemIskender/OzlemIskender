@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning RestAPI projects.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Engineering.
-- 💼 &nbsp; Software Engineer @Vodafone
+- 💼 &nbsp; Software Engineer @Virgosol
 - 🌱 &nbsp; Trying to manage backend to Android, iOS apps
 in an Agile Team
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -27,7 +27,7 @@ in an Agile Team
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 <br><br>
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/ozlemiskenderr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
